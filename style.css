@@ -1,0 +1,37 @@
+body {
+    background-color: #122033;
+    color: white;
+}
+
+button {
+    background-color: #4da6ff;
+    color: #ffffff;
+}
+
+button:hover {
+    background-color: #1e3d66; /* Darker shade on hover */
+}
+
+.accordion accordion-flush:hover{
+    background-color: #4da6ff;
+}
+
+.modal{
+    color: black;
+}
+
+.card-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card{
+    margin: 20px;
+}
+
+.pagination-div{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
